@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gist</string>
+    <string name="app_name">Gist\u003Ca\u003EViewer</string>
     <string name="title_activity_main">Gist\u003Ca\u003EViewer</string>
 
     <string name="item_gist_avatar_desc">Gist owner avatar</string>
